@@ -15,16 +15,6 @@ A simple and user-friendly **Flutter Currency Converter App** that converts an a
 
 ---
 
-## Screenshots
-
-### Light Mode
-*(Add your light mode screenshot here)*
-![light mode.PNG](..%2FUsers%2FS.A%20COMPUTER%2FDesktop%2Flight%20mode.PNG)
-### Dark Mode
-*(Add your dark mode screenshot here)*
-![dark_mode.PNG](..%2FUsers%2FS.A%20COMPUTER%2FDesktop%2Fdark_mode.PNG)
-
----
 
 ## How It Works
 
